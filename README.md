@@ -10,3 +10,16 @@ Known errors (there are pictures attached):
 4. newport news has a listing with personal data in it.
 5. virginia beach's first listing has bad data (mispelling), but i just changed that guy.
 6. city of manassas has henrico county data.
+7. county of fairfax has city of alexandria data
+8. portsmouth has euthanized animal data...not sure if thats relevant....
+9. frederick county has florida data...maybe that is relevant; animal moved, change of address?
+10. frederick county has city of winchester data
+11. james city county has city of williamsburg data
+12. king william county has town of west point data...town of west point isn't even listed in localities.....
+13. prince william county has manassas data....city/county/manassas park, i have no clue.
+14. roanoke county has salem data...that is correct, but i'm pretty sure i saw salem (not vb) data elsewheres. maybe with blacksburg or christiansburg...
+15. shenandoah county and rockingham counties have timberville data
+16. stafford and spotsylvania counties have city of fredericksburg data
+17. stafford county also has maryland data...move info?
+18. washington county has city of bristol data
+19. saw town of vienna data in one of the nova counties...can't remember which
